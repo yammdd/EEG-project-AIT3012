@@ -152,7 +152,7 @@ Models evaluated:
 
 ## 📈 Architecture Diagram
 
-* EEG preprocessing → HMM states → Hybrid features → GNN → Classifier
+![digram](./Experiment's%20Graphs/diagram.png)
 
 ---
 
