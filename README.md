@@ -124,7 +124,7 @@ Traditional CNNs ignore non-Euclidean structure; classical ML relies on handcraf
 
 ## 🧪 Experiments
 
-Dataset: 25 subjects
+[Dataset](https://drive.google.com/drive/folders/1jMIdQO_8ekxhzkMMGgmJTjxqRIivQtw1?usp=sharing): 25 subjects
 
 * Train: subjects 1–20
 * Test: subjects 21–25 (subject-independent split)
